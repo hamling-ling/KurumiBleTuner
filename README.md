@@ -14,7 +14,8 @@ If you want to build this project, It's better to use your own gr_common directo
 6. build your project!
 
 ## Demo
-https://www.youtube.com/watch?v=ZwmfuGoQjK4&t=6s
+[Singing Tuning Meter of Your Tone]( https://youtu.be/ZwmfuGoQjK4 )
+
 
 ## Schematic
 https://easyeda.com/normal/KurumiBleTuner-9dca205233fa403bbf2e9ca330b25814
